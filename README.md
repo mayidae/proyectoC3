@@ -1,5 +1,5 @@
 
-#Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
 2020
 Data: Human Activity Recognition Using Smartphones Dataset
 Version 1.0
@@ -15,14 +15,14 @@ Abstract: Human Activity Recognition database built from the recordings of 30 su
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-#The project contains:
+# The project contains:
 
-##Readme.md:
+## Readme.md:
 which generally describes the project and the uploaded files
 
-##CodeBook.md:
+## CodeBook.md:
 which describes the project and the steps followed in the file run_analysis.rmd
 
-##run_analisis.R:
+## run_analisis.R:
 contains the R codes for each of the activities
 
